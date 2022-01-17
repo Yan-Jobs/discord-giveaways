@@ -41,7 +41,7 @@
   "devDependencies": {
     "@types/node": "^14.0.5",
     "discord.js": "^12.5.1",
-    "eslint": "^7.6.0",
+    "eslint": "^8.7.0",
     "jsdoc": "^3.6.4",
     "jsdoc-skyceil": "Androz2091/jsdoc-skyceil",
     "typescript": "^4.0.2"
