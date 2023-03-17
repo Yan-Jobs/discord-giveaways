@@ -44,6 +44,6 @@
     "eslint": "^7.6.0",
     "jsdoc": "^3.6.4",
     "jsdoc-skyceil": "Androz2091/jsdoc-skyceil",
-    "typescript": "^4.0.2"
+    "typescript": "^5.0.2"
   }
 }
